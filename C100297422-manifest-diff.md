@@ -1,6 +1,6 @@
 # C100297422 Manifest Difference
 
-Comparison of TFS pending-change manifests:
+Comparison of TFS pending-change manifests.
 
 | File | Role |
 |---|---|
@@ -9,6 +9,8 @@ Comparison of TFS pending-change manifests:
 
 Paths below drop the branch prefix (`$/DCS/DEV-UPGRADE/` vs `$/DCS/DEV-UPGRADE-DUTYSTAMP/`) so the same relative file can be compared.
 
+TFS labels from the source manifests are written in English here (`add` / `edit` / `delete`, ISO dates) so this file stays UTF-8 and renders cleanly on GitHub.
+
 ---
 
 ## 1. Header / metadata
@@ -16,10 +18,10 @@ Paths below drop the branch prefix (`$/DCS/DEV-UPGRADE/` vs `$/DCS/DEV-UPGRADE-D
 | Field | Manifest A | Manifest B |
 |---|---|---|
 | TFS branch | `$/DCS/DEV-UPGRADE` | `$/DCS/DEV-UPGRADE-DUTYSTAMP` |
-| Shelveset (擱置集) | `C100297422 DSS & JQuery v0.9` | `C100297422 DSS & JQuery v0.9 New Branch` |
-| User (使用者) | `victor_yt_lam` | `victor_yt_lam` |
-| Lock (鎖定) | 無 (all entries) | 無 (all entries) |
-| Date (日期) | all `2026年9月17日 15:52:42` | `2026年10月7日` 11:16–11:45 (see §1.1) |
+| Shelveset | `C100297422 DSS & JQuery v0.9` | `C100297422 DSS & JQuery v0.9 New Branch` |
+| User | `victor_yt_lam` | `victor_yt_lam` |
+| Lock | none (all entries) | none (all entries) |
+| Date | all `2026-09-17 15:52:42` | `2026-10-07` 11:16-11:45 (see section 1.1) |
 | Total entries | **465** | **433** |
 | Unique relative paths | 465 (no duplicates) | 433 (no duplicates) |
 
@@ -29,40 +31,40 @@ A uses one timestamp for every entry. B uses several timestamps from the same mo
 
 | Timestamp (B) | Count | Typical meaning |
 |---|---:|---|
-| 2026年10月7日 11:16:09 | 39 | early unshelve / edits |
-| 2026年10月7日 11:16:10 | 1 | |
-| 2026年10月7日 11:16:13 | 16 | |
-| 2026年10月7日 11:16:14 | 1 | |
-| 2026年10月7日 11:16:17 | 4 | |
-| 2026年10月7日 11:16:18 | 5 | |
-| 2026年10月7日 11:16:20 | 19 | |
-| 2026年10月7日 11:16:22 | 20 | |
-| 2026年10月7日 11:16:23 | 5 | |
-| 2026年10月7日 11:16:24 | 1 | |
-| 2026年10月7日 11:16:26 | 8 | |
-| 2026年10月7日 11:17:27 | 256 | adds (加入) |
-| 2026年10月7日 11:17:28 | 57 | deletes (刪除) |
-| 2026年10月7日 11:45:48 | 1 | `Web.config` only (not in A) |
+| 2026-10-07 11:16:09 | 39 | early unshelve / edits |
+| 2026-10-07 11:16:10 | 1 | |
+| 2026-10-07 11:16:13 | 16 | |
+| 2026-10-07 11:16:14 | 1 | |
+| 2026-10-07 11:16:17 | 4 | |
+| 2026-10-07 11:16:18 | 5 | |
+| 2026-10-07 11:16:20 | 19 | |
+| 2026-10-07 11:16:22 | 20 | |
+| 2026-10-07 11:16:23 | 5 | |
+| 2026-10-07 11:16:24 | 1 | |
+| 2026-10-07 11:16:26 | 8 | |
+| 2026-10-07 11:17:27 | 256 | adds |
+| 2026-10-07 11:17:28 | 57 | deletes |
+| 2026-10-07 11:45:48 | 1 | `Web.config` only (not in A) |
 
 ---
 
 ## 2. Change-type counts
 
-| Change (變更) | A | B | Delta (B ? A) |
+| Change | A | B | Delta (B minus A) |
 |---|---:|---:|---:|
-| 加入 (add) | 271 | 256 | ?15 |
-| 編輯 (edit) | 137 | 120 | ?17 |
-| 刪除 (delete) | 57 | 57 | 0 |
-| **Total** | **465** | **433** | **?32** |
+| add | 271 | 256 | -15 |
+| edit | 137 | 120 | -17 |
+| delete | 57 | 57 | 0 |
+| **Total** | **465** | **433** | **-32** |
 
-| File type (檔案類型) | A | B | Delta (B ? A) |
+| File type | A | B | Delta (B minus A) |
 |---|---:|---:|---:|
 | big5 | 200 | 200 | 0 |
-| utf-8 | 188 | 184 | ?4 |
-| Binary | 63 | 49 | ?14 |
-| (empty — folder add) | 14 | 0 | ?14 |
+| utf-8 | 188 | 184 | -4 |
+| Binary | 63 | 49 | -14 |
+| (empty - folder add) | 14 | 0 | -14 |
 
-The file-type deltas come only from the A-only entries in §4. Shared paths have the same file type.
+The file-type deltas come only from the A-only entries in section 4. Shared paths have the same file type.
 
 ---
 
@@ -76,33 +78,33 @@ The file-type deltas come only from the A-only entries in §4. Shared paths have
 
 For the 432 shared paths:
 
-- Change type is **identical** (no 加入/編輯/刪除 mismatch).
+- Change type is **identical** (no add / edit / delete mismatch).
 - File type is **identical**.
-- Shared breakdown: **256 加入**, **119 編輯**, **57 刪除**.
+- Shared breakdown: **256 add**, **119 edit**, **57 delete**.
 
-What still differs on those 432 paths: branch prefix, shelveset name, date, and base changeset (see §6).
+What still differs on those 432 paths: branch prefix, shelveset name, date, and base changeset (see section 6).
 
 ---
 
-## 4. Only in A (33) — not on the new branch
+## 4. Only in A (33) -- not on the new branch
 
 These relative paths appear in `manifestA.txt` and do **not** appear in `manifestB.txt`.
 
-### 4.1 Application source edits (5) — highest risk
+### 4.1 Application source edits (5) -- highest risk
 
 | Change | Base ver | Type | Relative path |
 |---|---|---|---|
-| 編輯 | C7749 | utf-8 | `DCS/DCS/Areas/CE/Controllers/FCE006Controller.cs` |
-| 編輯 | C7749 | utf-8 | `DCS/DCS/Areas/PP/AP/Controllers/FCA003Controller.cs` |
-| 編輯 | C7936 | utf-8 | `DCS/DCS/Areas/PP/AP/Models/Dao/APEnqDao.cs` |
-| 編輯 | C7918 | utf-8 | `DCS/DCS/Areas/PP/EP/Models/Dao/EPEnqDao.cs` |
-| 編輯 | C7749 | utf-8 | `DCS/DCS/Areas/PP/PE/Scripts/FPE024S01.js` |
+| edit | C7749 | utf-8 | `DCS/DCS/Areas/CE/Controllers/FCE006Controller.cs` |
+| edit | C7749 | utf-8 | `DCS/DCS/Areas/PP/AP/Controllers/FCA003Controller.cs` |
+| edit | C7936 | utf-8 | `DCS/DCS/Areas/PP/AP/Models/Dao/APEnqDao.cs` |
+| edit | C7918 | utf-8 | `DCS/DCS/Areas/PP/EP/Models/Dao/EPEnqDao.cs` |
+| edit | C7749 | utf-8 | `DCS/DCS/Areas/PP/PE/Scripts/FPE024S01.js` |
 
 These A-only source edits were not re-shelved onto `DEV-UPGRADE-DUTYSTAMP`. Confirm whether the DUTYSTAMP tip already contains the change, or whether they still need to be applied.
 
 ### 4.2 Deployed jQuery UI theme images (13)
 
-All **編輯**, base `C7749`, type `Binary`, under `DCS/DCS/Content/themes/base/images/`.
+All **edit**, base `C7749`, type `Binary`, under `DCS/DCS/Content/themes/base/images/`.
 
 B does **not** edit these deployed copies. B still **adds** the same filenames under the NuGet package path `DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/` (those package adds are in both manifests).
 
@@ -128,11 +130,11 @@ Full relative path prefix: `DCS/DCS/Content/themes/base/images/`
 
 | Change | Base ver | Type | Relative path |
 |---|---|---|---|
-| 加入 | — | Binary | `DCS/DCS/Ref/CommonCipher.dll` |
+| add | - | Binary | `DCS/DCS/Ref/CommonCipher.dll` |
 
 ### 4.4 Package folder adds (14)
 
-All **加入**, no base version, empty file type (TFS folder pending-add). The **files** under these folders are already in both manifests; only the folder nodes themselves are missing from B.
+All **add**, no base version, empty file type (TFS folder pending-add). The **files** under these folders are already in both manifests; only the folder nodes themselves are missing from B.
 
 | Relative path |
 |---|
@@ -153,11 +155,11 @@ All **加入**, no base version, empty file type (TFS folder pending-add). The **f
 
 ---
 
-## 5. Only in B (1) — new on DUTYSTAMP
+## 5. Only in B (1) -- new on DUTYSTAMP
 
 | Change | Base ver | Type | Date | Relative path |
 |---|---|---|---|---|
-| 編輯 | C7950 | utf-8 | 2026年10月7日 11:45:48 | `DCS/DCS/Web.config` |
+| edit | C7950 | utf-8 | 2026-10-07 11:45:48 | `DCS/DCS/Web.config` |
 
 This is the latest timestamp in B and does not exist in A. It looks like a branch-specific config edit after the unshelve, not part of the original 2026-09-17 shelveset.
 
@@ -169,7 +171,7 @@ $/DCS/DEV-UPGRADE-DUTYSTAMP/DCS/DCS/Web.config;C7950
 
 ---
 
-## 6. Shared paths (432) — metadata-only differences
+## 6. Shared paths (432) -- metadata-only differences
 
 Relative path and change type match. These fields differ on every shared entry:
 
@@ -177,34 +179,34 @@ Relative path and change type match. These fields differ on every shared entry:
 |---|---|---|
 | Server path prefix | `$/DCS/DEV-UPGRADE/` | `$/DCS/DEV-UPGRADE-DUTYSTAMP/` |
 | Shelveset | `C100297422 DSS & JQuery v0.9` | `C100297422 DSS & JQuery v0.9 New Branch` |
-| Date | 2026年9月17日 15:52:42 | 2026年10月7日 (various) |
-| Base changeset on 編輯/刪除 | mixed (`C7749`, `C7935`, …) | **all `C7950`** |
-| Base changeset on 加入 | none | none |
+| Date | 2026-09-17 15:52:42 | 2026-10-07 (various) |
+| Base changeset on edit/delete | mixed (`C7749`, `C7935`, ...) | **all `C7950`** |
+| Base changeset on add | none | none |
 
 ### 6.1 Base changeset remapping (shared paths)
 
 | Count | A version | B version | Typical change |
 |---:|---|---|---|
-| 256 | — (no version) | — (no version) | 加入 |
-| 132 | C7749 | C7950 | 編輯 / 刪除 |
-| 13 | C7935 | C7950 | 編輯 |
-| 9 | C7865 | C7950 | 編輯 |
-| 5 | C7870 | C7950 | 編輯 |
-| 4 | C7922 | C7950 | 編輯 |
-| 2 | C7750 | C7950 | 編輯 |
-| 2 | C7886 | C7950 | 編輯 |
-| 2 | C7931 | C7950 | 編輯 |
-| 2 | C7761 | C7950 | 編輯 |
-| 2 | C7921 | C7950 | 編輯 |
-| 1 | C7862 | C7950 | 編輯 |
-| 1 | C7907 | C7950 | 編輯 |
-| 1 | C7799 | C7950 | 編輯 |
+| 256 | - (no version) | - (no version) | add |
+| 132 | C7749 | C7950 | edit / delete |
+| 13 | C7935 | C7950 | edit |
+| 9 | C7865 | C7950 | edit |
+| 5 | C7870 | C7950 | edit |
+| 4 | C7922 | C7950 | edit |
+| 2 | C7750 | C7950 | edit |
+| 2 | C7886 | C7950 | edit |
+| 2 | C7931 | C7950 | edit |
+| 2 | C7761 | C7950 | edit |
+| 2 | C7921 | C7950 | edit |
+| 1 | C7862 | C7950 | edit |
+| 1 | C7907 | C7950 | edit |
+| 1 | C7799 | C7950 | edit |
 
-A-only versions that never appear on a shared path (they belong to §4.1): `C7936` (`APEnqDao.cs`), `C7918` (`EPEnqDao.cs`).
+A-only versions that never appear on a shared path (they belong to section 4.1): `C7936` (`APEnqDao.cs`), `C7918` (`EPEnqDao.cs`).
 
-### 6.2 Shared 編輯 files (119)
+### 6.2 Shared edit files (119)
 
-These source/config edits exist in **both** manifests (same relative path and 編輯). Listed so it is clear they are **not** missing from B.
+These source/config edits exist in **both** manifests (same relative path and edit). Listed so it is clear they are **not** missing from B.
 
 **Project / shared**
 
@@ -309,11 +311,11 @@ These source/config edits exist in **both** manifests (same relative path and 編
 - `DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009S01.cshtml`
 - `DCS/DCS/Areas/PP/PE/Views/FPE022/FPE022S01FilterRuleForm.cshtml`
 
-**Scripts / content / packages (shared 編輯, not listed file-by-file above)**
+**Scripts / content / packages (shared edits, not listed file-by-file above)**
 
-Remaining shared 編輯 rows are jQuery / fullcalendar / unobtrusive-validation content under `DCS/DCS/Content`, `DCS/DCS/Scripts`, and `DCS/packages/...` (same relative path in both manifests).
+Remaining shared edit rows are jQuery / fullcalendar / unobtrusive-validation content under `DCS/DCS/Content`, `DCS/DCS/Scripts`, and `DCS/packages/...` (same relative path in both manifests).
 
-### 6.3 Shared 刪除 files (57) — identical set
+### 6.3 Shared delete files (57) -- identical set
 
 Old jQuery 2.1.3 and jQuery UI 1.11.2 artifacts. Same relative paths in A and B.
 
@@ -381,7 +383,7 @@ DCS/packages/jQuery.UI.Combined.1.11.2/jQuery.UI.Combined.1.11.2.nupkg
 
 ## 7. Checklist before check-in on DUTYSTAMP
 
-1. Confirm the **5 A-only source files** in §4.1 — either already present on the branch tip, or still need to be ported.
+1. Confirm the **5 A-only source files** in section 4.1 -- either already present on the branch tip, or still need to be ported.
 2. Confirm whether **`Content/themes/base/images`** theme PNGs still need updating, or only the NuGet package copies.
 3. Confirm whether **`CommonCipher.dll`** should be added on B.
 4. Confirm the **`Web.config`** edit on B is intentional for `DEV-UPGRADE-DUTYSTAMP`.
