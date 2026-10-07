@@ -1,0 +1,3707 @@
+$/DCS/DEV-UPGRADE/DCS/DCS/DCS.csproj;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/packages.config;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Controllers/FCE001Controller.cs;C7931
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Controllers/FCE003Controller.cs;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Controllers/FCE004Controller.cs;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Controllers/FCE006Controller.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Controllers/FCE016Controller.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Controllers/FCE017Controller.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Dao/CEEnqDao.cs;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Dao/CEMaintDao.cs;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/Common/StampPackingInfo.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE001/FCE001E01Model_new.cs;C7922
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE003/FCE003D01_1Model.cs;C7922
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE016/FCE016C01Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE016/FCE016S01Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE016/FCE016S02Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE016/FCE016U01Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE017/FCE017E01Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE017/FCE017S01Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Models/Model/FCE017/FCE017S02Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/DutyStampPacking.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE001E01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE001E01_New.js;C7931
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE001S01_New.js;C7886
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE003_FCE004Share.js;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE003D01.js;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE004E01.js;C7870
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE008C01.js;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE008S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE009Base.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE009S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE013S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE015S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE016C01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE016S01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE016U01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE017E01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Scripts/FCE017S01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Utils/CEEnums.cs;C7870
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Utils/CEUtils.cs;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE001/FCE001E01_new.cshtml;C7922
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE001/FCE001E01_Part3List.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE003/FCE003D01.cshtml;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE003/FCE003D01_2.cshtml;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE003/FCE003D01_3.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE003/FCE003D01_5.cshtml;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE003/FCE003D01_6.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE003/FCE003D07.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE004/FCE004E01.cshtml;C7870
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE004/FCE004E01_2.cshtml;C7935
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE004/FCE004E01_3.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE004/FCE004E01_5.cshtml;C7922
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE004/FCE004E01_6.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE004/FCE004E07.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE004/FCE004E08.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE008/FCE008C04.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE016/FCE016C01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE016/FCE016S01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE016/FCE016U01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE017/FCE017E01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE017/FCE017E01_01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/FCE017/FCE017S01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/CE/Views/Shared/DutyStampPacking.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/DSMappingProfile.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Controllers/FDS002Controller.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Controllers/FDS003Controller.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Controllers/FDSBaseController.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Models/Dao/DSEnqDao.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Models/Dao/DSMaintDao.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Models/Model/DCSAjaxResponse.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Models/Model/ViewMapModel.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Models/Model/FDS002/FDS002S01Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Models/Model/FDS002/FDS002S02Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Models/Model/FDS003/FDS003E01Model.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Scripts/FDS002S01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Scripts/FDS003E01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Scripts/FDS003S01.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Views/FDS002/FDS002S01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Views/FDS002/FDS002S01_03.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Views/FDS002/FDS002S01_04.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Views/FDS002/FDS002S01Note.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Views/FDS003/FDS003E01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/DS/Views/FDS003/FDS003S01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Controllers/FSV001Controller.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Resources/CED94ShortLabel.Designer.cs;C7750
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Resources/CED94ShortLabel.resx;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FAD001E01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FAD001S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FAD002E01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FAD002S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FAD003E01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FAD003S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FCD009S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FCD010S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FCD024S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/GE/Scripts/FCD036S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/LP/Controllers/FLP008Controller.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/LP/Controllers/FLP019Controller.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/LP/Models/Dao/LPMaintDao.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/LP/Scripts/FLP028S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/LP/Views/FLP022/FLP022S01FilterRuleForm.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/AP/Controllers/FCA003Controller.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/AP/Models/Dao/APEnqDao.cs;C7936
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/AP/Scripts/FCA004S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/AP/Scripts/FCA007S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/AP/Scripts/FPV004S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/AP/Scripts/FSS003S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/EP/Models/Dao/EPEnqDao.cs;C7918
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/EP/Models/Dao/EPMaintDao.cs;C7907
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/EP/Scripts/FPE301S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/EP/Views/FDA002/FDA002E18.cshtml;C7761
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/EP/Views/FDA005/FDA005E18.cshtml;C7761
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Controllers/FPC009Controller.cs;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Models/Dao/PEEnqDao.cs;C7921
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Models/Dao/PEMaintDao.cs;C7921
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Models/Model/FPC009/FPC009E01Model.cs;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Models/Model/FPC009/FPC009S01Model.cs;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Models/Model/FPC009/FPC009S01RecordModel.cs;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPC008S01.js;C7799
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPC009E01.js;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPC009S01.js;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE006E01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE006S02.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE007S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE013S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE017S06.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE024S01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE026E01.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Scripts/FPE026E60.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E01.cshtml;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E01_DutyStampPacking.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E02.cshtml;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E03.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E03_01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E03_02.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E03_03.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E04.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E04_01.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009E04Part1Searching.cshtml
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPC009/FPC009S01.cshtml;C7865
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Areas/PP/PE/Views/FPE022/FPE022S01FilterRuleForm.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/fullcalendar.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/accordion.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/all.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/autocomplete.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/base.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/button.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/core.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/datepicker.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/dialog.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/draggable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/jquery-ui.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/jquery-ui.min.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/menu.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/progressbar.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/resizable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/selectable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/selectmenu.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/slider.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/sortable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/spinner.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/tabs.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/theme.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/tooltip.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_222222_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_2e83ff_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_444444_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_454545_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_555555_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_777620_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_777777_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_888888_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_cc0000_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_cd0a0a_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/base/images/ui-icons_ffffff_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Content/themes/dcs_purple/jquery-ui.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Ref/CommonCipher.dll
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/fullcalendar.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery.validate.unobtrusive.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery.validate.unobtrusive.min.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-2.1.3.intellisense.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-2.1.3.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-2.1.3.min.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-2.1.3.min.map;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-3.7.1.intellisense.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-3.7.1.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-3.7.1.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-3.7.1.min.map
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-ui-1.11.2.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-ui-1.11.2.min.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-ui-1.14.1.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-ui-1.14.1.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/jquery-ui-1-14.1.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/moment.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/moment-with-locales.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/moment-with-locales.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/common/_Layout.js;C7870
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Scripts/common/ajax-popup.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS/Views/Shared/_Layout.cshtml;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/DCS.Models.csproj;C7750
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/CD_COMM_VW.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/CED94_HDR_VW.cs;C7886
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DCSEntities.cs;C7870
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DEMAND_NOTE_HDR_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DEMAND_NOTE_ITM_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DEMAND_NOTE_MAST_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_ACTV_HDR_AMEND_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_ACTV_ITM_AMEND_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_ASGN_HDR_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_ASGN_ITM_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_ASGN_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_ASGN_STAMP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_LIC_CHG_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_LIC_CHG_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_LIC_REG_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_LIC_REQ_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_LIC_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_PERMIT_CHG_ITM_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_PERMIT_CHG_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_PERMIT_CHG_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_PERMIT_REQ_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_PERMIT_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_RECEIPT_ACK_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_RECEIPT_ACK_STAMP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_RECEIPT_ACK_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_RTN_HDR_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_RTN_ITM_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_RTN_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_RTN_STAMP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_SMS_IN_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_SMS_OUT_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_STAMP_ACTV_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_STAMP_STS_UPD_RESP_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/DSM_STAMP_STS_UPD_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/STAMP_BATCH_HIST_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/STAMP_BATCH_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/STAMP_DAMAGE_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/STAMP_PACKING_INFO_DTL_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/STAMP_PACKING_INFO_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Models/Entities/SYS_INTF_PERMIT_CCM_STG_VW.cs
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Utils/Constants/ConstantKeys.cs;C7862
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Utils.PermitProcessing/Ls_Approve.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Utils.PermitProcessing/PermitCancelApplication.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/DCS.Utils.PermitProcessing/PermitRejection.cs;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 編輯
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.4.0.0
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/.signature.p7s
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/fullcalendar.3.9.0.nupkg
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Content
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Content/fullcalendar.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Content/fullcalendar.min.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Content/fullcalendar.print.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Content/fullcalendar.print.min.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/fullcalendar.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/fullcalendar.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/gcal.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/gcal.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale-all.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/af.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ar.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ar-dz.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ar-kw.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ar-ly.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ar-ma.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ar-sa.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ar-tn.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/bg.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/bs.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ca.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/cs.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/da.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/de.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/de-at.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/de-ch.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/el.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/en-au.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/en-ca.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/en-gb.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/en-ie.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/en-nz.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/es.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/es-do.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/es-us.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/et.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/eu.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/fa.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/fi.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/fr.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/fr-ca.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/fr-ch.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/gl.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/he.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/hi.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/hr.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/hu.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/id.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/is.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/it.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ja.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ka.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/kk.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ko.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/lb.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/lt.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/lv.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/mk.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ms.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ms-my.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/nb.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/nl.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/nl-be.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/nn.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/pl.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/pt.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/pt-br.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ro.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/ru.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/sk.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/sl.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/sq.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/sr.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/sr-cyrl.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/sv.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/th.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/tr.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/uk.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/vi.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/zh-cn.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/fullcalendar.3.9.0/content/Scripts/fullcalendar/locale/zh-tw.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/jQuery.2.1.3.nupkg;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Content/Scripts/jquery-2.1.3.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Content/Scripts/jquery-2.1.3.min.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Content/Scripts/jquery-2.1.3.min.map;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Content/Scripts/jquery-2.1.3-vsdoc.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Tools/common.ps1;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Tools/install.ps1;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Tools/jquery-2.1.3.intellisense.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.2.1.3/Tools/uninstall.ps1;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/.signature.p7s
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/jQuery.3.7.1.nupkg
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Tools
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts/jquery-3.7.1.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts/jquery-3.7.1.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts/jquery-3.7.1.min.map
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts/jquery-3.7.1.slim.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts/jquery-3.7.1.slim.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts/jquery-3.7.1.slim.min.map
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Content/Scripts/jquery-3.7.1-vsdoc.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: utf-8
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Tools/common.ps1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Tools/install.ps1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Tools/jquery-3.7.1.intellisense.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.3.7.1/Tools/uninstall.ps1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/jQuery.UI.Combined.1.11.2.nupkg;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/accordion.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/all.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/autocomplete.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/base.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/button.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/core.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/datepicker.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/dialog.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/draggable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/menu.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/progressbar.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/resizable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/selectable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/selectmenu.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/slider.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/sortable.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/spinner.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/tabs.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/theme.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/tooltip.css;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-icons_222222_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-icons_2e83ff_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-icons_454545_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-icons_888888_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Content/themes/base/images/ui-icons_cd0a0a_256x240.png;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Scripts/jquery-ui-1.11.2.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Content/Scripts/jquery-ui-1.11.2.min.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Tools/common.ps1;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Tools/install.ps1;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.11.2/Tools/uninstall.ps1;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/.signature.p7s
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/jQuery.UI.Combined.1.14.1.nupkg
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Tools
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Scripts
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/accordion.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/all.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/autocomplete.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/base.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/button.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/core.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/datepicker.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/dialog.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/draggable.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/jquery-ui.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/jquery-ui.min.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/menu.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/progressbar.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/resizable.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/selectable.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/selectmenu.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/slider.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/sortable.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/spinner.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/tabs.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/theme.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/tooltip.css
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_222222_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_2e83ff_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_444444_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_454545_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_555555_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_777620_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_777777_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_888888_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_cc0000_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_cd0a0a_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Content/themes/base/images/ui-icons_ffffff_256x240.png
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Scripts/jquery-ui-1.14.1.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Scripts/jquery-ui-1.14.1.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Content/Scripts/jquery-ui-1-14.1.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Tools/common.ps1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Tools/install.ps1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/jQuery.UI.Combined.1.14.1/Tools/uninstall.ps1
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.3.0.0/Microsoft.jQuery.Unobtrusive.Validation.3.0.0.nupkg;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.3.0.0/Content/Scripts/jquery.validate.unobtrusive.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.3.0.0/Content/Scripts/jquery.validate.unobtrusive.min.js;C7749
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 刪除
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.4.0.0/.signature.p7s
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.4.0.0/Microsoft.jQuery.Unobtrusive.Validation.4.0.0.nupkg
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: Binary
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.4.0.0/Content/Scripts
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.4.0.0/Content/Scripts/jquery.validate.unobtrusive.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+$/DCS/DEV-UPGRADE/DCS/packages/Microsoft.jQuery.Unobtrusive.Validation.4.0.0/Content/Scripts/jquery.validate.unobtrusive.min.js
+  使用者  : victor_yt_lam
+  日期    : 2026年9月17日 15:52:42
+  鎖定    : 無
+  變更    : 加入
+  擱置集  : C100297422 DSS & JQuery v0.9
+  檔案類型: big5
+
+465 項變更
